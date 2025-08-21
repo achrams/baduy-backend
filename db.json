@@ -41,5 +41,11 @@
         "url": "https://www.instagram.com/goa_baduy"
       }
     }
+  },
+  "about": {
+    "contents": ["Goa Baduy memiliki Panjang ± 700 M, lebar 4 sampai 10 M, kedalaman ± 50 M, tinggi 6 sampai 12 M, di dalam goa tersebut terdapat sungai Ciawitali Leuwi Surupan yang bisa dilalui oleh pengunjung, di dalam Goa Baduy juga terdapat 3 danau, Mulut Goa Baduy terletak di Kampung Palayangan dan ujungnya terletak di Kampung Surupan Desa Sukamanah Kecamatan Cimanggu Stalagmit menjadi ciri khas dari goa ini yang merupakan kumpulan kalsit yang berasal dari air yang menetes, serta Stalaktit yaitu jenis speleothem yang menggantung dari langit-langit gua kapur dari pengendapan kalsium karbonat dan mineral lainnya.", "Goa Baduy di resmikan menjadi suatu objek wisata pada tahun 2020 oleh Bapak Rahmat Kurnia selaku Kepala Desa Sukamanah Kecamatan Cimanggu Kabupaten Sukabumi yang mana tujuan untuk dijadikan tempat musyawarah dan menghidari kerumunan saat wabah COVID 19."],
+    "visi": "Mengangkat perekonomian masyarakat melalui wisata desa dan UMKM",
+    "misi": ["Melestarikan keragaman geologi, biologi dan budaya melalui konsep pembangunan berkelanjutan.", "Menjadikan warisan bumi sebagai pusat studi lapangan tingkat nasional.", "Mengembangkan wisata berkelanjutan melalui peningkatan SDM dan pemberdayan ekonomi local."],
+    "image" : "https://goa-baduy.vercel.app/assets/about-qN90YgCh.jpg"
   }
 }

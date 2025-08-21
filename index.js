@@ -234,6 +234,32 @@ app.post("/landing", (req, res) => {
   });
 });
 
+app.get("/admin/about", (req, res) => {
+  fs.readFile("db.json", "utf8", (err, data) => {
+    if (err) return res.status(500).send("Error reading file");
+    const db = JSON.parse(data);
+    return res.status(200).json({ message: "Success", data: db.about });
+  });
+});
+
+app.post("/admin/about", (req, res) => {
+  fs.readFile("db.json", "utf8", (err, data) => {
+    const { contents, visi, misi } = req.body;
+    if (err) return res.status(500).send("Error reading file");
+    const db = JSON.parse(data);
+    const about = {
+      contents,
+      visi,
+      misi,
+    };
+    db.about = about;
+    fs.writeFile("db.json", JSON.stringify(db, null, 2), (err) => {
+      if (err) return res.status(500).send("Error writing file");
+      return res.status(201).json({ message: "About Edited", data: null });
+    });
+  });
+});
+
 app.listen(PORT, () => {
   console.log(`Server is running on http://localhost:${PORT}`);
 });
