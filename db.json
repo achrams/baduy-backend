@@ -1,0 +1,45 @@
+{
+  "user": {
+    "username": "admin",
+    "password": "admin"
+  },
+  "articles": [
+    {
+      "id": "6634d35f-f3b6-40ba-bb30-0c06950f3d91",
+      "title": "Vaksinasi Untuk Indonesia Sehat",
+      "contents": [
+        "Goa baduy merupakan destinasi wisata edukasi untuk kegiatan outdoor dalam melakukan aktifitas, seperti belajar mengajar, wisata santri, pemeliharaan alam, geologi dan lain-lain.\nNah pada kesempatan kali ini kegiatan yg sangat unik di lakukan oleh Desa Sukamanah Kecmatan Cimanggu Kabupaten Sukabumi adalah selain berwisata mereka pun melakukan tugas mulia yaitu mengajak masyarakat untuk melakukan VAKSINASI yang di lakukan di wahana wisata goa baduy palayangan.\nMasyarakat pun antusias berdatangan karna selain bermain mereka pun mendapatkan pelayanan kesehatan."
+      ],
+      "image": "https://scontent.fcgk25-1.fna.fbcdn.net/v/t39.30808-6/472018217_1152566316576670_6677755429797376577_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=3a1ebe&_nc_eui2=AeE43orXet0nj_2wCCFGgCsVegD2ynydfGx6APbKfJ18bI2RAp6pEIMZz9daP9PWqUsTxw885LcHya7PEcgcTFgs&_nc_ohc=2odVGk52t2oQ7kNvwHXa8_i&_nc_oc=AdkXF4vwqdaa0u_woWYxtHEuRne3x7WsoqB2CcffYABDrswCDwO_T3daSGuuqq4dBzc&_nc_zt=23&_nc_ht=scontent.fcgk25-1.fna&_nc_gid=UvjpPDoLSZB35GW9KJZlKg&oh=00_AfW1dpC3M1h9EqUN5UWW2WIaHwMvWjVPs8Vzp3WCxjBQgQ&oe=68AC67F1",
+      "createdAt": "2025-08-21T05:24:17.112Z",
+      "updatedAt": "2025-08-21T05:24:17.112Z"
+    }
+  ],
+  "resorts": [],
+  "landing": {
+    "title": "Goa Baduy Palayangan",
+    "contents": [
+      "Goa Baduy Palayangan adalah salah satu destinasi wisata alam yang unik dan penuh misteri, terletak di kawasan dengan panorama hijau yang masih asri. Goa ini dikenal memiliki nuansa mistis sekaligus keindahan alami yang memikat para pengunjung. Dengan stalaktit dan stalagmit yang terbentuk secara alami selama ratusan tahun, Goa Baduy Palayangan menjadi daya tarik bagi wisatawan yang menyukai petualangan, sejarah, dan wisata alam.",
+      "Selain keindahan goanya, kawasan sekitar juga menyuguhkan suasana pedesaan yang tenang, aliran sungai yang jernih, serta udara sejuk khas pegunungan. Lokasi ini sering menjadi pilihan bagi para pencinta alam, fotografer, hingga peneliti geologi yang ingin merasakan langsung keindahan sekaligus kekayaan alamnya.",
+      "Sebagai destinasi wisata yang terus berkembang, Goa Baduy Palayangan tidak hanya menawarkan pengalaman eksplorasi alam, tetapi juga sarana edukasi tentang fenomena geologi dan budaya lokal di sekitarnya. Dengan akses yang semakin mudah dan fasilitas yang mulai terkelola, tempat ini semakin populer di kalangan wisatawan lokal maupun mancanegara."
+    ],
+    "info": {
+      "address": {
+        "text": "Kampung Palayangan Legok Picung Rt.01/01 Desa Sukamanah Kecamatan Cimanggu Kabupaten Sukabumi.",
+        "url": "https://maps.app.goo.gl/TQFBBxYunaeWPXhAA"
+      },
+      "contact": {
+        "name": "Admin",
+        "phone": "+62-857-2190-5207"
+      },
+      "facebook": {
+        "name": "Goa Baduy Palayangan",
+        "url": "https://www.facebook.com/profile.php?id=100064971781055"
+      },
+      "instagram": {
+        "name": "@goa_baduy",
+        "url": "https://www.instagram.com/goa_baduy"
+      }
+    }
+  }
+}
